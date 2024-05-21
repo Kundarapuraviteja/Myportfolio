@@ -347,7 +347,7 @@ body{
 
 .col header.title{
     font-family: Arial, Helvetica, sans-serif;
-    color: #ea4f0c;
+    color: deeppink;
     font-size: 30px;
     padding: 0px 0px 20px 30px;
 }
@@ -1000,8 +1000,8 @@ font-size: 30px;
     }
     .project-box{
         flex-grow: 1;
-        width: 30%;
-        height: 22vh;
+        width: 25%;
+        height: 20vh;
     }
     .social-media{
         width: 100%;
